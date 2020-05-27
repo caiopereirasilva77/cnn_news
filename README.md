@@ -1,7 +1,7 @@
 ## Projeto 
 
 Este projeto foi desenvolvido utilizando o framework react-adim, utilizando como base
-a documentação disponível (https://marmelab.com/react-admin)
+a documentação disponível (https://marmelab.com/react-admin).
 React-Admin Tutorial
 
 ## Desafio
